@@ -1,0 +1,2 @@
+[webserver]
+172.31.32.245 ansible_ssh_user=ansible
